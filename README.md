@@ -1,1 +1,1 @@
-# Swarming-algorithm
+# SwarmAlgorithm
