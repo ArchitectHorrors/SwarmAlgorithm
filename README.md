@@ -1,1 +1,0 @@
-# Swarming-algorithm---traveler-problem
